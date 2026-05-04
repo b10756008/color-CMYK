@@ -1,6 +1,0 @@
-{
-  "name": "Remix: CMYK 色彩探索器",
-  "description": "專業級 CMYK 色輪與色彩選取工具，支援準確的減法色域轉換、總墨量限制 (TIC) 分析及 print-safe 驗證。",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
